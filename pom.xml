@@ -49,7 +49,9 @@
                 <version>3.2.5</version>
                 <configuration>
                 <suiteXmlFiles>
-                <suiteXmlFile>testngsignup.xml</suiteXmlFile>
+                <suiteXmlFile>testngSearch.xml</suiteXmlFile>
+                <suiteXmlFile>testngsearchbrand.xml</suiteXmlFile>
+                <suiteXmlFile>testngsearchitem.xml</suiteXmlFile>
                 </suiteXmlFiles>
                </configuration>
             </plugin>
